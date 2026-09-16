@@ -1,0 +1,1 @@
+import LandingPage from '@/components/LandingPage';\n\nexport default function Home() {\n  return <LandingPage />;\n}\n
